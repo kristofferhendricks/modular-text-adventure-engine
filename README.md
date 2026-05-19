@@ -4,7 +4,7 @@ A Java text-based adventure game engine originally created for a programming cou
 
 Current playable game: Alice in Wonderland.
 
-Run with:
+compile and Run with:
 
-```bash
-java Launcher Alice
+javac src\*.java
+java -cp src Launcher Alice
