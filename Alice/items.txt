@@ -1,0 +1,16 @@
+itemId|itemName|locationAtStart|pointValue|isInInventory|specialUse
+1|BOOK|1|50|false|bonus
+2|KEY|2|25|false|use
+3|BOTTLE|2|25|false|shrink
+4|CAKE|2|25|false|grow 
+5|GLOVES|0|25|false|quest
+6|TRUMPET|6|25|false|quest
+7|SCROLL|5|25|false|quest
+8|UNIFORM|3|25|false|quest
+9|MUSHLEFT|3|25|false|shrink
+10|MUSHRIGHT|3|25|false|grow
+11|IRON|4|25|false|prepare
+12|POLISH|3|25|false|prepare
+13|WAX|5|25|false|prepare
+14|BOX|4|25|false|store
+15|TARTS|6|50|false|eat

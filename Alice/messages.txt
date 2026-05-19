@@ -1,0 +1,5 @@
+KEY|TEXT
+HOME_END|You go home and find your mom making soup for lunch.\nNo adventures today.
+TIMEOUT_LOSE|Suddenly the Queen arrives with her card soldiers.\n\"OFF WITH HER HEAD!\"
+COURT_WIN|The White Rabbit steps forward, perfectly prepared.\nYou have helped him succeed!
+COURT_LOSE|The Queen blames you for everything.\n\"OFF WITH HER HEAD!\"

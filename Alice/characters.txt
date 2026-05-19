@@ -1,0 +1,9 @@
+characterId|name|startingLocationId|isPlayer|maxInventory|roleTag|messageKey|specialTag
+1|ALICE|1|true|4|player|MSG_ALICE_DEFAULT|none
+2|RABBIT|4|false|4|questGiver|MSG_RABBIT_DEFAULT|rabbit_quest
+3|CATERPILLAR|3|false|0|advisor|MSG_CATERPILLAR_UNIFORM|uniform_hint
+4|CAT|6|false|0|advisor|MSG_CHESHIRE_TRUMPET|trumpet_hint
+5|HARE|5|false|0|advisor|MSG_MARCH_HARE_GLOVES|gloves_hint
+6|HATTER|5|false|0|advisor|MSG_MAD_HATTER_SCROLL|parchment_hint
+7|QUEEN|6|false|0|queen|MSG_QUEEN_DEFAULT|off_with_head
+8|KNAVE|6|false|1|thief|MSG_KNAVE_DEFAULT|steals_drops
