@@ -117,7 +117,7 @@ public class Launcher {
 
         // Build the folder path: ./<gameName>
         // Example: TextBasedGame> java Launcher Alice  -> dataDir = TextBasedGame/Alice
-        Path dataDir = Paths.get(gameName);
+        Path dataDir = Paths.get("games", gameName);
 
         if (!Files.isDirectory(dataDir)) {
             System.out.println("Could not find game data folder: " + dataDir.toAbsolutePath());
